@@ -67,7 +67,10 @@ footer {
   margin: 0 auto;
   text-align: center;
 }
-
+.links {
+  color: #046e8f;
+  font-weight: bold;
+}
 @media (max-width: 800px) {
   h1 {
     font-size: 30px;
