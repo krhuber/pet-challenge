@@ -122,7 +122,28 @@ footer {
     max-width: 200px;
   }
 }
-@media (max-width: 850px) {
+@media (max-width: 844px) {
+  .gallery {
+    max-width: 170px;
+    max-height: 170px;
+  }
+}
+@media (max-width: 768px) {
+  nav a {
+    font-size: 15px;
+  }
+  nav {
+    padding: 15px 20px;
+  }
+  img {
+    max-width: 170px;
+  }
+  .gallery {
+    max-width: 150px;
+    max-height: 150px;
+  }
+}
+@media (max-width: 650px) {
   nav a {
     font-size: 15px;
   }
@@ -135,5 +156,14 @@ footer {
   .gallery {
     max-width: 100px;
     max-height: 100px;
+  }
+}
+
+@media (max-width: 390px) {
+  nav a {
+    font-size: 12px;
+  }
+  nav {
+    padding: 5px 10px;
   }
 }
