@@ -85,3 +85,18 @@ footer {
     font-size: 13px;
   }
 }
+
+@media (max-width: 990px) {
+  img {
+    max-width: 200px;
+  }
+}
+@media (max-width: 850px) {
+  img {
+    max-width: 100px;
+  }
+  .gallery {
+    max-width: 100px;
+    max-height: 100px;
+  }
+}
