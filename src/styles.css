@@ -66,6 +66,7 @@ footer {
 .footer {
   margin: 0 auto;
   text-align: center;
+  text-decoration: none;
 }
 .links {
   color: #046e8f;
