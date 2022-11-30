@@ -81,6 +81,10 @@ p {
 footer {
   margin-bottom: 30px;
 }
+
+.bagheera-main {
+  max-width: 300px;
+}
 .names {
   color: #046e8f;
   text-decoration: underline;
